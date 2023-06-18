@@ -1,0 +1,141 @@
+.first-bg-container {
+  background-color: #9ba9eb;
+  height: auto;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 15px;
+}
+.img {
+  height: 250px;
+  width: 250px;
+}
+
+.logo {
+  height: 50px;
+  width: 150px;
+}
+.first-responsive-container {
+  background-color: #5763a5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.icons {
+  height: 25px;
+  width: 26px;
+  border-style: solid;
+  border-left: none;
+  border-top: none;
+  border-bottom: none;
+  border-width: 1px;
+  border-color: #94a3b8;
+}
+.input-container {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  border-radius: 2px;
+  height: 35px;
+  margin-bottom: 10px;
+}
+.input {
+  outline: none;
+  border: none;
+  font-family: 'roboto';
+  color: #64748b;
+  font-weight: 600;
+}
+.description {
+  color: white;
+  font-family: 'roboto';
+  text-align: center;
+}
+.button {
+  background-color: #0b69ff;
+  color: white;
+  font-family: 'roboto';
+  border-style: none;
+  width: 55px;
+  height: 25px;
+}
+.btn {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+}
+.user-inputs-container {
+  background-color: #454f84;
+  width: 100%;
+  padding: 20px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.search-container {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 65%;
+  border-radius: 2px;
+  height: 25px;
+  margin-bottom: 10px;
+}
+.second-responsive-container {
+  background-color: #5763a5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.second-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.search {
+  outline: none;
+  border: none;
+  font-family: 'roboto';
+  color: #64748b;
+  font-weight: 600;
+}
+.password {
+  margin-right: 15px;
+}
+
+.hr-line {
+  width: 90%;
+  padding-top: 0px;
+}
+.text-alining {
+  text-align: right;
+}
+.span {
+  border-style: solid;
+  border-width: 1px;
+  background-color: transparent;
+  border-color: white;
+  border-radius: 9px;
+  padding-right: 8px;
+  padding-left: 8px;
+  text-align: center;
+}
+.password {
+  color: wheat;
+  font-family: 'roboto';
+  font-weight: 500;
+}
